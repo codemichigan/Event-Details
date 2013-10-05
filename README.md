@@ -4,6 +4,9 @@ Event-Details
 ## Getting Your Team Added
 If you don't yet have your team added to the Code Michigan organization, see [Matt Graham](https://github.com/mattgraham), he should be walking around somewhere wearing a black GitHub hoodie and crazy bright orange shoes. He can assist you in getting your team added.
 
+## Datasets
+The datasets provided by Socrata are available here, https://community.socrata.com/catalog/code-michigan.
+
 ## Setting up Git
 To setup Git on your computer visit this page, https://help.github.com/articles/set-up-git and click the "Download GitHub for Mac/Windows" depending on which system you are on. Once you download and install the app, it will ask you to enter your GitHub credentials and will setup your machine. If you do not have a GitHub account yet, visit http://github.com to signup for free. If you prefer to use the command line, there are insructions on the page for that as well.
 
